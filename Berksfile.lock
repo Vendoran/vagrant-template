@@ -1,0 +1,7 @@
+DEPENDENCIES
+  vagrant-template
+    path: .
+    metadata: true
+
+GRAPH
+  vagrant-template (0.1.0)
